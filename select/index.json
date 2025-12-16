@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夢中",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-16T01:57:36.237490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢中",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/01_夢中_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢中 - muchuu",
+      "artist": "BACHIATARI",
+      "has_synced": true,
+      "path": "select/02_夢中_-_muchuu_BACHIATARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢中",
+      "artist": "□□□(クチロロ)",
+      "has_synced": false,
+      "path": "select/03_夢中_□□□(クチロロ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢中",
+      "artist": "Ochunism",
+      "has_synced": false,
+      "path": "select/04_夢中_Ochunism.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢中",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/05_夢中_BE_FIRST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢中",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_夢中_BE_FIRST.txt"
+    }
+  ]
+}
